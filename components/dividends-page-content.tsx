@@ -264,8 +264,8 @@ export function DividendsPageContent() {
               </span>
             </h1>
             <p className='text-muted-text text-sm font-mono'>
-              Every epoch, QTREAT holders receive QUBIC dividends — the highest yield of
-              any dividend-paying project on the network.
+              Every epoch, QTREAT holders receive QUBIC dividends — one of the highest
+              yields on the network.
             </p>
           </div>
           <button
